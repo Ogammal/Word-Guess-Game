@@ -1,0 +1,13 @@
+#word {
+    letter-spacing: 5px;
+}
+body {
+    background-image: url(../images/background.jpg);
+}
+.jumbotron {
+    background-color: transparent;
+}
+#game {
+    color: #edea00;
+    font-weight: bold;
+}
